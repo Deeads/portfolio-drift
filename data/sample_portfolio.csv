@@ -1,0 +1,5 @@
+Ticker,Weight,AssetClass
+AAPL,0.25,Stock
+MSFT,0.25,Stock
+VTI,0.40,ETF
+BTC-USD,0.10,Crypto
