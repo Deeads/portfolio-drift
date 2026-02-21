@@ -18,7 +18,8 @@ Weight: The target allocation (can be decimals like 0.5 or percentages like 50).
 Example portfolio.csv:
 
 
-```Ticker,Weight
+```
+Ticker,Weight
 AAPL, 0.40
 MSFT, 0.30
 SPY, 0.30
